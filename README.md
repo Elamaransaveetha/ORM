@@ -4,8 +4,7 @@
 ## AIM
 To develop a Django application to store and retrieve data from a Football Players database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
-![image](https://github.com/Ragu-123/ORM/assets/113915622/d40b855d-e278-42a1-b7e7-63db7646c2fc)
+
 
 
 ## DESIGN STEPS
